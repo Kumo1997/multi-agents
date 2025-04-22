@@ -75,7 +75,7 @@ streamlit run pages/1_POMDP_Multi_Agent_Training.py
 - ✅ Visualize training, survival, lifetime and outcomes!
 
 ---
-##📢 Future Roadmap
+## 📢 Future Roadmap
 - 📈 Animate Belief Trust Evolution across episodes
 
 - 🥇 Auto-generate Agent Leaderboards
